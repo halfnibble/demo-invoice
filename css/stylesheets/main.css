@@ -1,0 +1,29 @@
+/* line 1, ../sass/main.sass */
+.page-width {
+  width: 800px;
+  margin: 0 auto;
+}
+
+/* line 5, ../sass/main.sass */
+.content-box {
+  background-color: #3a3945;
+  color: #FFF;
+  padding: 20px;
+}
+
+/* line 10, ../sass/main.sass */
+#bill-from {
+  float: left;
+  width: 300px;
+}
+
+/* line 14, ../sass/main.sass */
+#bill-to {
+  float: right;
+  width: 300px;
+}
+
+/* line 18, ../sass/main.sass */
+.name {
+  font-style: italic;
+}
